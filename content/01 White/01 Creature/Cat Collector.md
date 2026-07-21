@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Elisabeth, Ben
-image: ZZ_Images/Cat_Collector.webp
+image: zz_images/cat_collector.webp
 sticker count: 2
 Killed:
 Killed by:

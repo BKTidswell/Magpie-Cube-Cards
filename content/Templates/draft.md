@@ -9,13 +9,14 @@ views:
         - Drafts.contains("{{Title}}")
     image: note.image
     imageFit: contain
+    cardSize: 100
 
 ```
 
 ## Players
 ```base
 views:
-  - type: cards
+  - type: list
     name: Table
     filters:
       and:

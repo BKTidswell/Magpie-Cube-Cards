@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Unknown
-image: ZZ_Images/Burrog_Befuddler.webp
+image: zz_images/burrog_befuddler.webp
 sticker count: 1
 Killed:
 Killed by:

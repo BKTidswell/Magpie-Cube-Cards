@@ -2,10 +2,11 @@
 Death:
 Hall of Fame:
 Drafts:
-Sticker Applier:
-image: zz_images/
+Sticker Applier: Ben
+image: /zz_images/heros sword.webp
 sticker count:
 Killed:
 Killed by:
 Killed in:
 ---
+![[Heros_Sword.webp]]

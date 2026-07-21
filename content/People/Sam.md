@@ -11,6 +11,7 @@ views:
         - note["Sticker Applier"].contains("Sam")
     image: note.image
     imageFit: contain
+    cardSize: 100
 
 ```
 
@@ -24,5 +25,6 @@ views:
         - note["Killed by"].contains("Sam")
     image: note.image
     imageFit: contain
+    cardSize: 100
 
 ```
