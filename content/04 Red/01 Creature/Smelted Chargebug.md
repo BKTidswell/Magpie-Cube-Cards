@@ -1,0 +1,12 @@
+---
+Death:
+Hall of Fame:
+Drafts: Draft X
+Sticker Applier: Jarek
+image: /zz_images/smelted_chargebug.webp
+sticker count: 1
+Killed:
+Killed by:
+Killed in:
+---
+![[Smelted_Chargebug.webp]]

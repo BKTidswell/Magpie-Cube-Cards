@@ -1,7 +1,7 @@
 ---
 Death: true
 Hall of Fame:
-Sticker Applier: Unknown
+Sticker Applier: Jarek
 image: /zz_images/goldmeadow_harrier.webp
 sticker count:
 Drafts: Draft X

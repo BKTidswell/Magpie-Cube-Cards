@@ -2,7 +2,7 @@
 Death:
 Hall of Fame:
 Drafts: Draft X
-Sticker Applier: Unknown
+Sticker Applier: Jarek
 image: /zz_images/wingspan_stride.webp
 sticker count: 1
 Killed:

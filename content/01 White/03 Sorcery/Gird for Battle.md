@@ -2,7 +2,7 @@
 Death:
 Hall of Fame:
 Drafts: Draft X
-Sticker Applier: Ben
+Sticker Applier: Schuyler
 image: /zz_images/gird_for_battle.webp
 sticker count: 1
 Killed:

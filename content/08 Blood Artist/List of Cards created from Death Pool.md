@@ -8,5 +8,6 @@ views:
     order:
       - file.name
     image: note.image
+    cardSize: 100
 
 ```
