@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Jarek
-image: /zz_images/fencing_Ace.webp
+image: /zz_images/fencing_ace.webp
 sticker count: 1
 Killed:
 Killed by:
