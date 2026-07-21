@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X, Draft 1
 Sticker Applier: Elisabeth
-image: content/ZZ_Images/Fleeting_Flight.webp
+image: ZZ_Images/Fleeting_Flight.webp
 sticker count: 2
 Killed:
 Killed by:

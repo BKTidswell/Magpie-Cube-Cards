@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft 1
 Sticker Applier: Ben
-image: content/ZZ_Images/Metastatic_Evangel.webp
+image: ZZ_Images/Metastatic_Evangel.webp
 sticker count: 1
 Killed:
 Killed by:
