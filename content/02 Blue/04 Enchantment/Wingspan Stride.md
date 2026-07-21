@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Unknown
-image: /zz_Images/wingspan_stride.webp
+image: /zz_images/wingspan_stride.webp
 sticker count: 1
 Killed:
 Killed by:
