@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Ben
-image: content/ZZ_Images/Demonic_Tutor.webp
+image: ZZ_Images/Demonic_Tutor.webp
 sticker count: 1
 Killed:
 Killed by:
