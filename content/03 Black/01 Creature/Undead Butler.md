@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Elisabeth
-image: ZZ_Images/Undead_Butler.webp
+image: /zz_images/undead_butler.webp
 sticker count: 1
 Killed:
 Killed by:

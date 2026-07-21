@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Elisabeth, Ben
-image: ZZ_Images/Tide_Skimmer.webp
+image: /zz_images/tide_skimmer.webp
 sticker count: 2
 Killed:
 Killed by:

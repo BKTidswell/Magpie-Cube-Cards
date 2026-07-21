@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Elisabeth
-image: ZZ_Images/Light_the_Way.webp
+image: /zz_images/light_the_way.webp
 sticker count: 1
 Killed:
 Killed by:

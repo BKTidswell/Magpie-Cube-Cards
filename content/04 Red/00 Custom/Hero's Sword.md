@@ -9,4 +9,3 @@ Killed:
 Killed by:
 Killed in:
 ---
-![[Heros_Sword.webp]]

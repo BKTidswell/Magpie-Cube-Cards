@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts:
 Sticker Applier:
-image: content/ZZ_Images/maalik.jpeg
+image: /zz_images/maalik.jpeg
 sticker count:
 Killed:
 Killed by:

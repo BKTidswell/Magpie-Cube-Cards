@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Unknown, Ben
-image: ZZ_Images/Network_Disruptor.webp
+image: /zz_images/network_disruptor.webp
 sticker count: 2
 Killed:
 Killed by:

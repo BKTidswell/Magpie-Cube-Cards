@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Unknown, Jarek
-image: ZZ_Images/Moon_Circuit_Hacker.webp
+image: /zz_images/moon_circuit_hacker.webp
 sticker count: 3
 Killed:
 Killed by:

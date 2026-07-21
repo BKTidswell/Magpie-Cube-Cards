@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts:
 Sticker Applier:
-image: content/ZZ_Images/Leviathan.webp
+image: /zz_images/leviathan.webp
 sticker count:
 Killed:
 Killed by:

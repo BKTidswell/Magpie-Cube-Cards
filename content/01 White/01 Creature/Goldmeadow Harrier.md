@@ -2,7 +2,7 @@
 Death: true
 Hall of Fame:
 Sticker Applier: Unknown
-image: ZZ_Images/Goldmeadow_Harrier.webp
+image: /zz_images/goldmeadow_harrier.webp
 sticker count:
 Drafts: Draft X
 Killed:

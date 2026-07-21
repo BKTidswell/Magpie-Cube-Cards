@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Elisabeth
-image: ZZ_Images/Vampire_Neonate.webp
+image: /zz_images/vampire_neonate.webp
 sticker count: 3
 Killed:
 Killed by:

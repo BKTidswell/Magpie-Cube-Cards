@@ -3,7 +3,7 @@ Death:
 Hall of Fame:
 Drafts: Draft X
 Sticker Applier: Elisabeth
-image: ZZ_Images/Swift_Response.webp
+image: /zz_images/swift_response.webp
 sticker count: 1
 Killed:
 Killed by:
