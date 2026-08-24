@@ -1,11 +1,13 @@
 ---
 Death:
 Hall of Fame:
-Drafts: Draft X
-Sticker Applier: Elisabeth
+Drafts: Draft X, Draft 2
+Sticker Applier: Elisabeth, Jarek
 image: /zz_images/starlit_soothsayer.webp
-sticker count: 1
+sticker count: 2
 Killed:
 Killed by:
 ---
-![[Starlit_Soothsayer.webp]]
+![[content/ZZ_Images/Starlit_Soothsayer.webp]]
+
+![[Starlit_Soothsayer_old.webp]]

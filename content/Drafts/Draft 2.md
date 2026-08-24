@@ -1,14 +1,12 @@
----
-Played Drafts: Draft X, Draft 1, Draft 2
----
-## Cards Stickered
+
+## Cards Modified
 ```base
 views:
   - type: cards
     name: Table
     filters:
       and:
-        - note["Sticker Applier"].contains("Elisabeth")
+        - Drafts.contains("Draft 2")
     image: note.image
     imageFit: contain
     cardSize: 100
@@ -22,9 +20,22 @@ views:
     name: Table
     filters:
       and:
-        - note["Killed by"].contains("Elisabeth")
+        - note["Killed in"].contains("Draft 2")
     image: note.image
     imageFit: contain
     cardSize: 100
+
+```
+
+## Players
+```base
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - note["Played Drafts"].contains("Draft 2")
+    image: note.image
+    imageFit: contain
 
 ```

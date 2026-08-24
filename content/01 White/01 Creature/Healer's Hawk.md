@@ -1,12 +1,15 @@
 ---
 Death:
 Hall of Fame:
-Drafts: Draft 1
-Sticker Applier: Ben
+Drafts: Draft 1, Draft 2
+Sticker Applier: Ben, Jarek
 image: /zz_images/healers_hawk.webp
-sticker count: 1
+sticker count: 2
 Killed:
 Killed by:
 Killed in:
 ---
-![[Healers_Hawk.webp]]
+![[content/ZZ_Images/Healers_Hawk.webp]]
+
+
+![[Healers_Hawk_old.webp]]

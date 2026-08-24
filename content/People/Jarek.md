@@ -1,5 +1,5 @@
 ---
-Played Drafts: Draft X
+Played Drafts: Draft X, Draft 2
 ---
 ## Cards Stickered
 ```base
